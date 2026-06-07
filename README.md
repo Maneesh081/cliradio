@@ -163,7 +163,6 @@ cliradio --refresh
 4.  mpv handles all the hard parts — HTTP/ICY protocol, buffering, codec decoding, and audio output
 5.  When you quit mpv, you're back in the station browser
 
-For a deep dive into the architecture, the Radio Browser API, the HTTP/ICY streaming protocol, and codec negotiation, see [EXPLANATION.md](EXPLANATION.md).
 
 ## License
 
