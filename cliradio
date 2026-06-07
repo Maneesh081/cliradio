@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# cliradio — entry point
+exec python3 "$(dirname "$0")/cliradio.py" "$@"
